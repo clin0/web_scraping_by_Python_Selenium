@@ -8,4 +8,5 @@ Some other useful tips:
 
 [Web Scraping with Selenium](https://www.pluralsight.com/guides/web-scraping-with-selenium) <br>
 [Blog - Web Scraping using Selenium and Python](https://www.scrapingbee.com/blog/selenium-python/) <br>
-[scrapinghub](https://blog.scrapinghub.com/)
+[scrapinghub](https://blog.scrapinghub.com/) <br>
+[Blog - Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/) <- this is such a short and sweet post！
