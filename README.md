@@ -5,6 +5,7 @@ Follow the [documentation](https://www.selenium.dev/documentation/en/webdriver/b
 I used google Chrome as my drowser to play around. The sandbox website is [here](http://econpy.pythonanywhere.com/ex/001.html). Also, the csv file was able to exported as well.
 
 Some other useful tips:
+
 [Web Scraping with Selenium](https://www.pluralsight.com/guides/web-scraping-with-selenium) <br>
 [Blog - Web Scraping using Selenium and Python](https://www.scrapingbee.com/blog/selenium-python/) <br>
 [scrapinghub](https://blog.scrapinghub.com/)
